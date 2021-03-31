@@ -38,7 +38,8 @@ Returns an object containing the parsed information.
     campaign: 'Campaign,
     medium: 'Medium',
     keywords: 'Keywords',
-    content: 'Content'
+    content: 'Content',
+    gclid: 'Google Click Identifier'
 }
 ```
 
